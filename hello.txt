@@ -4,6 +4,6 @@ This is second line.
 
 This is third line, written by developer.
 
-This line had bug, now fixed.
+This is a new feature. 
 
 
